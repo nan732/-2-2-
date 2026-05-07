@@ -1,0 +1,3 @@
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir

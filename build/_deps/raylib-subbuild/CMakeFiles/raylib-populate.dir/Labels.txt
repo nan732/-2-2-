@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+/Users/macbookpro/Desktop/c++大作业二/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule
