@@ -1,9 +1,9 @@
 #pragma once
 
-#include "Level.h"
-#include "PlayerBall.h"
-#include "Types.h"
-#include "UI.h"
+#include "关卡.h"
+#include "玩家方块.h"
+#include "类型定义.h"
+#include "界面.h"
 
 #include "raylib.h"
 

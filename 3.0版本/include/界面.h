@@ -1,7 +1,7 @@
 #pragma once
 
-#include "Level.h"
-#include "Types.h"
+#include "关卡.h"
+#include "类型定义.h"
 
 class PlayerBall;
 

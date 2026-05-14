@@ -1,7 +1,7 @@
-#include "Trap.h"
+#include "陷阱.h"
 
-#include "MathUtil.h"
-#include "PlayerBall.h"
+#include "数学工具.h"
+#include "玩家方块.h"
 
 #include <array>
 #include <cmath>

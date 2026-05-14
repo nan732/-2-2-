@@ -19,13 +19,13 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(raylib)
 
 add_executable(TrapMindBall
-    main.cpp
-    src/Game.cpp
-    src/Level.cpp
-    src/MathUtil.cpp
-    src/PlayerBall.cpp
-    src/Trap.cpp
-    src/UI.cpp
+    主程序.cpp
+    src/游戏控制.cpp
+    src/关卡.cpp
+    src/数学工具.cpp
+    src/玩家方块.cpp
+    src/陷阱.cpp
+    src/界面.cpp
 )
 
 target_include_directories(TrapMindBall PRIVATE include)

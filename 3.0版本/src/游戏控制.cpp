@@ -1,6 +1,6 @@
-#include "Game.h"
+#include "游戏控制.h"
 
-#include "MathUtil.h"
+#include "数学工具.h"
 
 #include <cmath>
 
